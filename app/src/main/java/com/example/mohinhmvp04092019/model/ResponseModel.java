@@ -1,4 +1,4 @@
-package com.example.mohinhmvp04092019;
+package com.example.mohinhmvp04092019.model;
 
 public interface ResponseModel {
     void parameterIsNull();
